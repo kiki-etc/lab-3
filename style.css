@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 5vw; 
+    color: #00FF00;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+}
+h1:hover {
+    cursor: pointer;
+}
